@@ -1,0 +1,65 @@
+
+p {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gameTitle {
+    color: white;
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: peru;
+}
+
+#instructionArea {
+    color: mediumseagreen;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    background-color: bisque;
+}
+
+
+#targetArea {
+    float: left;
+    min-height: 125px;
+    color: black;
+    font-size: 40px;
+    /* font-weight: bold; */
+    background-color: mediumseagreen;
+}
+
+#winLossArea {
+    min-height: 125px;
+    color: black;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+#crystal_1, #crystal_2, #crystal_3, #crystal_4 {
+    height: 120px;
+    width: 150px;
+}
+
+#scoreLabel {
+    color: white;
+    font-size: 20px;
+    background-color: darkcyan;
+}
+
+#scoreArea {
+    min-height: 125px;
+    color: white;
+    font-size: 40px;
+    background-color: darkcyan;
+}
+
+
